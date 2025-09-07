@@ -18,7 +18,7 @@ In this sessions we'll answer these and more questions while building a Copilot 
 
 ### References
 
-These are the references I used in my talk:
+These are the links to resources and references I mentioned in my talk:
 
 - The Office
 - [Azure AI Studio](https://ai.azure.com)

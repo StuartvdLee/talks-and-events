@@ -15,7 +15,7 @@ In deze sessie bouwen we een Copilot voor Dunder Mifflin, iedereens favoriete pa
 
 ### References
 
-These are the references I used in my talk:
+These are the links to resources and references I mentioned in my talk:
 
 - The Office
 - [Azure AI Studio](https://ai.azure.com)
