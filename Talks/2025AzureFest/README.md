@@ -19,7 +19,7 @@ In this session we'll get our teeth stuck in these and many more questions and w
 These are the links to resources and references I mentioned in my talk:
 
 - The Office
-- [DunderMifflin](https://github.com/StuartvdLee/DunderMifflin/tree/2025AzureFest)
+- [DunderMifflin](https://github.com/StuartvdLee/DunderMifflin/tree/azurefest2025)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
 - [Model Context Protocol C# SDK](https://github.com/modelcontextprotocol/csharp-sdk)
 - [Your API is not an MCP](https://www.youtube.com/watch?v=eeOANluSqAE)
