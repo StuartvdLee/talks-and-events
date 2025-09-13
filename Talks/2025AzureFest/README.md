@@ -19,10 +19,13 @@ In this session we'll get our teeth stuck in these and many more questions and w
 These are the links to resources and references I mentioned in my talk:
 
 - The Office
-- [Dunder Mifflin](https://github.com/StuartvdLee/DunderMifflin/tree/2025AzureFest)
+- [DunderMifflin](https://github.com/StuartvdLee/DunderMifflin/tree/2025AzureFest)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
+- [Model Context Protocol C# SDK](https://github.com/modelcontextprotocol/csharp-sdk)
 - [Your API is not an MCP](https://www.youtube.com/watch?v=eeOANluSqAE)
 - [Getting Started with MCP (Model Context Protocol)](https://www.youtube.com/watch?v=DpyjAKmNwpI)
-- [Slide deck]()
+- [Connect to Model Context Protocol servers](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/model-context-protocol)
+- [agentcon-pizza-workshop](https://github.com/GlobalAICommunity/agentcon-pizza-workshop)
+- [Slide deck](2025AzureFest.pdf)
 
 Thank you for listening to my talk and checking out the resources!
