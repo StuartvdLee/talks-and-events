@@ -1,4 +1,4 @@
-# Azure Fest 2025 - Building your own MCP server
+# Made for Dev by Global AI Community - Building your own MCP server
 
 This is a talk I gave for [Made for Dev by Global AI Community](https://github.com/GlobalAICommunity/made-for-dev). The talk was in English.
 
