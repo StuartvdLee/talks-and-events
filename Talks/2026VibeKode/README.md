@@ -1,6 +1,6 @@
 # VibeKode 2026 - Building your own MCP server
 
-This is a talk I gave at [VibeKode 2026](https://vibekode.it/connecting-ai/building-your-own-mcp-server/). The talk was in DutEnglishch.
+This is a talk I gave at [VibeKode 2026](https://vibekode.it/connecting-ai/building-your-own-mcp-server/). The talk was in English.
 
 ## Talk Title
 
