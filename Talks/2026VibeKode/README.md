@@ -25,6 +25,6 @@ These are the links to resources and references I mentioned in my talk:
 - [Your API is not an MCP](https://www.youtube.com/watch?v=eeOANluSqAE)
 - [Getting Started with MCP (Model Context Protocol)](https://www.youtube.com/watch?v=DpyjAKmNwpI)
 - [Connect to Model Context Protocol servers](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/model-context-protocol)
-- [Slide deck](2026Tools4everMeetup.pdf)
+- [Slide deck](2026VibeKode.pdf)
 
 Thank you for listening to my talk and checking out the resources!
